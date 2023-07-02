@@ -10,4 +10,4 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-🄼𝗥,🄷𝗜𝗠𝗘𝗦𝗛-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗔𝗡𝗚𝗟𝗘╺+𝗤𝗨𝗘𝗘𝗡+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗠𝗥.𝗛𝗜𝗠𝗘𝗦𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗔𝗡𝗚𝗟𝗘╺+𝗤𝗨𝗘𝗘𝗡+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗠𝗥.𝗛𝗜𝗠𝗘𝗦𝗛;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
