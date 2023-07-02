@@ -1,6 +1,3 @@
-<p align="center">
-<img src="./Android/database/𝗠𝗥.𝗛𝗜𝗠𝗘𝗦𝗛gif" alt="Loading..." width="320"/>
-<p align="center">
 
 <p align="center"> 
 <u>👩‍🔬💙 🄿𝗢𝗪𝗘𝗥𝗘𝗗 🄱𝗬 🄼𝗥 🄷𝗜𝗠𝗘𝗦𝗛 💙👩‍🔬</u>
@@ -12,3 +9,5 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-🄼𝗥,🄷𝗜𝗠𝗘𝗦𝗛-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
