@@ -8,8 +8,4 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-🄼𝗥,🄷𝗜𝗠𝗘𝗦𝗛-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
-<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
-<p align="center">
-<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
-</p>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙰𝙽𝙶𝙴𝙻𝙴+𝚀𝚄𝙴𝙴𝙽+;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙼𝚁.🄷𝗜𝗠𝗘𝗦𝗛;🖇️💙සුබ දවසක් ඔයාලට +මම හිමෙෂ්🙃;මගේ 𝘁𝗶𝗸 𝘁𝗼𝗸 පෙජ් එකත් 𝗳𝗮𝗹𝗹𝘄𝗼 කරන්න+පෙජ් එකේ නෙම් එක 👉𝗦𝗢𝗢𝗡 𝗠𝗨𝗦𝗜𝗖🌹)](https://git.io/typing-svg)
