@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./Android/database/𝗠𝗥.𝗛𝗜𝗠𝗘𝗦𝗛gif" alt="Loading..." width="320"/>
+<p align="center">
+
 <p align="center"> 
 <u>👩‍🔬💙 🄿𝗢𝗪𝗘𝗥𝗘𝗗 🄱𝗬 🄼𝗥 🄷𝗜𝗠𝗘𝗦𝗛 💙👩‍🔬</u>
 </p>
