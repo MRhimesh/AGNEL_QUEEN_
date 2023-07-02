@@ -10,3 +10,9 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-🄼𝗥,🄷𝗜𝗠𝗘𝗦𝗛-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+
+<p align="center">
+
+<img src="https://telegra.ph/file/d990615ab0e01445b02e8.mp4" alt="nz" width="350"/>
+
+</p>
